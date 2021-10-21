@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    min-height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.header-components {
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+        
+}
+
+.header-components h1 {
+    font-weight: bold;
+    font-size: 25px;
+ }
+.header-components img{
+    height: 50px;
+}
+
+
+
+/*Footer component*/
+.footer-component {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    
+}
